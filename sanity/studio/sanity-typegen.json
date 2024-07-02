@@ -1,0 +1,6 @@
+{
+    "path": "'..//nuxt-and-storybook/**/*.{ts}'",
+    "schema": "schema.json",
+    "generates": "../nuxt-and-storybook/sanity/types.ts"
+  }
+  
